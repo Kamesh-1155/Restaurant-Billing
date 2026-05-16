@@ -2,6 +2,12 @@
 
 A simple Python-based Restaurant Billing System that helps manage restaurant orders, menu handling, billing, and database operations.
 
+# Output
+<img width="1887" height="896" alt="image" src="https://github.com/user-attachments/assets/6ec2a094-0fb7-4fce-ae32-6441f55274b8" />
+<img width="1901" height="768" alt="image" src="https://github.com/user-attachments/assets/15d5e097-668d-4665-9a67-ba71dc931561" />
+<img width="1865" height="726" alt="image" src="https://github.com/user-attachments/assets/277cf3c0-2a85-4508-8921-e8f2c2b50d52" />
+<img width="1867" height="378" alt="image" src="https://github.com/user-attachments/assets/110f7722-156b-4439-969f-8ecf2a59a2d4" />
+
 ## 📌 Features
 
 * Menu Management
