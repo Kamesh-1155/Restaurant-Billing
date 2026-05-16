@@ -59,4 +59,4 @@ GitHub: [https://github.com/Kamesh-1155](https://github.com/Kamesh-1155)
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub. Thank You🙏🏼!!!!!
+⭐ If you like this project, consider giving it a star. Thank You🙏🏼!!!!!
